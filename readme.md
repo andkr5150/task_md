@@ -8,8 +8,8 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание:
 
-1. [git add]()
-2. [git status]()
+1. [git add](./git_add.md)
+2. [git status](/.git_status.md)
 3. [git commit]()
 4. [git reset]()
 5. [git rm]()
