@@ -8,9 +8,13 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание:
 
-
-
-
+1. [git add]()
+2. [git status]()
+3. [git commit]()
+4. [git reset]()
+5. [git rm]()
+6. [git mv]()
+7. [git clean]()
 
 
 ---
