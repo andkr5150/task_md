@@ -9,12 +9,12 @@ LICENSE: [MIT](./license.md)
 ### Содержание:
 
 1. [git add](./git_add.md)
-2. [git status](/.git_status.md)
-3. [git commit]()
-4. [git reset]()
-5. [git rm]()
-6. [git mv]()
-7. [git clean]()
+2. [git status](./git_status.md)
+3. [git commit](./git_commit.md)
+4. [git reset](./git_reset.md)
+5. [git rm](./git_rm.md)
+6. [git mv](./git_mv.md)
+7. [git clean](./git_clean.md)
 
 
 ---
