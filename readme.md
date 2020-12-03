@@ -8,13 +8,15 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание:
 
-1. [git add](./git_add.md)
-2. [git status](./git_status.md)
-3. [git commit](./git_commit.md)
-4. [git reset](./git_reset.md)
-5. [git rm](./git_rm.md)
-6. [git mv](./git_mv.md)
-7. [git clean](./git_clean.md)
+1. [*git add*](./git_add.md)
+2. [*git status*](./git_status.md)
+3. [*git diff*](./git_diff.md)
+4. [*git difftool*](./git_difftool.md)
+5. [*git commit*](./git_commit.md)
+6. [*git reset*](./git_reset.md)
+7. [*git rm*](./git_rm.md)
+8. [*git mv*](./git_mv.md)
+9. [*git clean*](./git_clean.md)
 
 
 ---
