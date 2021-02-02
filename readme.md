@@ -17,6 +17,9 @@ LICENSE: [MIT](./license.md)
 7. [*git rm*](./git_rm.md)
 8. [*git mv*](./git_mv.md)
 9. [*git clean*](./git_clean.md)
+10. [*git help*](./git_help.md)
+11. [*git init*](./git_init.md)
+12. [*git clone*](./git_clone.md)
 
 
 ---
